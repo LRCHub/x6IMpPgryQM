@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "チェリーなシークレット",
+  "base_artist": "星川サラ",
+  "createdAt": "2025-12-07T08:17:09.841727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チェリーなシークレット",
+      "artist": "星川サラ",
+      "has_synced": true,
+      "path": "select/01_チェリーなシークレット_星川サラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チェリーなシークレット",
+      "artist": "星川サラ",
+      "has_synced": false,
+      "path": "select/pl_01_チェリーなシークレット_星川サラ.txt"
+    }
+  ]
+}
